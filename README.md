@@ -3,7 +3,7 @@
 - Pair Project with JQuad(https://github.com/JaewoongHur)
 - We're making Korean NBA website providing various information about NBA including player stats, matches.
 
-### commits by myself(HEET)
+### commits (HEET)
 - 05.17 - first commit : build basic architecture 
   - Spring boot, MVC pattern
   - created basic Database using MySql
